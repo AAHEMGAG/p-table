@@ -6,9 +6,15 @@ body{
     justify-content: center;
     background-color: rgba(255, 81, 0, 0.272);
     border-radius: 20%;
+    max-width: 500px;
 }
 .H{
     position: relative;
     right: 10px;
+    top: 10px;
+}
+.H{
+    position: relative;
+    left: 10px;
     top: 10px;
 }
