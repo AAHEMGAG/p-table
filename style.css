@@ -7,14 +7,19 @@ body{
     justify-content: center;
     background-color: rgba(255, 81, 0, 0.272);
     border-radius: 5%;
-    min-width: 400px;
-    min-height: 200px;
+    width: 400px;
+    height: 200px;
 }
+/*
+==============
+Group 1
+==============
+*/
 .H{
     width: 10px;
     height: 10px;
     position: relative;
-    margin-right: 390px;
+    margin-right: 380px;
     margin-bottom: 190px;
     background-color: rgba(0, 128, 128, 0.905);
     border: 1px;
@@ -23,11 +28,123 @@ body{
     width: 10px;
     height: 10px;
     position: relative;
-    margin-right: 390px;
-    margin-bottom: 190px;
+    margin-right: 380px;
+    margin-bottom: 180px;
     background-color: rgba(255, 225, 0, 0.908);
     border: 1px;
 }
+.Na{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    margin-right: 380px;
+    margin-bottom: 170px;
+    background-color: rgba(255, 225, 0, 0.908);
+    border: 1px;
+}
+.K{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    margin-right: 380px;
+    margin-bottom: 160px;
+    background-color: rgba(255, 225, 0, 0.908);
+    border: 1px;
+}
+.Rb{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    margin-right: 380px;
+    margin-bottom: 150px;
+    background-color: rgba(255, 225, 0, 0.908);
+    border: 1px;
+}
+/*
+==============
+Group 2
+==============
+*/
+/*
+==============
+Group 3
+==============
+*/
+/*
+==============
+Group 4
+==============
+*/
+/*
+==============
+Group 5
+==============
+*/
+/*
+==============
+Group 6
+==============
+*/
+/*
+==============
+Group 7
+==============
+*/
+/*
+==============
+Group 8
+==============
+*/
+/*
+==============
+Group 9
+==============
+*/
+/*
+==============
+Group 10
+==============
+*/
+/*
+==============
+Group 11
+==============
+*/
+/*
+==============
+Group 12
+==============
+*/
+/*
+==============
+Group 13
+==============
+*/
+/*
+==============
+Group 14
+==============
+*/
+/*
+==============
+Group 15
+==============
+*/
+/*
+==============
+Group 16
+==============
+*/
+/*
+==============
+Group 17
+==============
+*/
+/*
+==============
+Group 18
+==============
+*/
 .He{
     width: 10px;
     height: 10px;
