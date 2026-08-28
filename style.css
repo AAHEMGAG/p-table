@@ -680,37 +680,443 @@ Group 12
 Group 13
 ==============
 */
+.G13{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    margin-top: 12px;
+}
+.B{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 1;
+    background-color: rgba(128, 128, 128, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Al{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 2;
+    background-color: rgba(19, 19, 19, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Ga{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 3;
+    background-color: rgba(19, 19, 19, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.In{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 4;
+    background-color: rgba(19, 19, 19, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Tl{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 5;
+    background-color: rgba(19, 19, 19, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Nh{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 6;
+    background-color: rgba(19, 19, 19, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
 /*
 ==============
 Group 14
 ==============
 */
+.G14{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    margin-top: 12px;
+}
+.C{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 1;
+    background-color: rgba(161, 17, 67, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Si{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 2;
+    background-color: rgba(128, 128, 128, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Ge{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 3;
+    background-color: rgba(128, 128, 128, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Sn{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 4;
+    background-color: rgba(19, 19, 19, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Pb{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 5;
+    background-color: rgba(19, 19, 19, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Fl{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 6;
+    background-color: rgba(19, 19, 19, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
 /*
 ==============
 Group 15
 ==============
 */
+.G15{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    margin-top: 12px;
+}
+.N{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 1;
+    background-color: rgba(161, 17, 67, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.P{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 2;
+    background-color: rgba(161, 17, 67, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.As{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 3;
+    background-color: rgba(128, 128, 128, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Sb{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 4;
+    background-color: rgba(128, 128, 128, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Bi{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 5;
+    background-color: rgba(19, 19, 19, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Mc{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 5;
+    background-color: rgba(19, 19, 19, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
 /*
 ==============
 Group 16
 ==============
 */
+.G16{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    margin-top: 12px;
+}
+.O{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 1;
+    background-color: rgba(161, 17, 67, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.S{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 2;
+    background-color: rgba(161, 17, 67, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Se{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 3;
+    background-color: rgba(161, 17, 67, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Te{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 4;
+    background-color: rgba(128, 128, 128, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Po{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 5;
+    background-color: rgba(128, 128, 128, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Po{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 5;
+    background-color: rgba(128, 128, 128, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Lv{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 6;
+    background-color: rgba(19, 19, 19, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
 /*
 ==============
 Group 17
 ==============
 */
+.G17{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    margin-top: 12px;
+}
+.F{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 1;
+    background-color: rgba(135, 207, 235, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Cl{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 2;
+    background-color: rgba(135, 207, 235, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Br{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 3;
+    background-color: rgba(135, 207, 235, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.I{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 4;
+    background-color: rgba(135, 207, 235, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.At{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 5;
+    background-color: rgba(135, 207, 235, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Ts{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 6;
+    background-color: rgba(135, 207, 235, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
 /*
 ==============
 Group 18
 ==============
 */
+.G18{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+}
 .He{
     width: 10px;
     height: 10px;
     position: relative;
-    margin-left: auto;
-    margin-bottom: auto;
+    order: 1;
+    background-color: rgba(128, 0, 128, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Ne{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 2;
+    background-color: rgba(128, 0, 128, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Ar{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 3;
+    background-color: rgba(128, 0, 128, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Kr{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 4;
     background-color: rgba(128, 0, 128, 0.917);
-    border: 1px;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Xe{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 5;
+    background-color: rgba(128, 0, 128, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Rn{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 6;
+    background-color: rgba(128, 0, 128, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Og{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 7;
+    background-color: rgba(128, 0, 128, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
 }
