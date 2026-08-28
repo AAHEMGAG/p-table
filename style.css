@@ -5,7 +5,7 @@ body{
     display: flex;
     justify-content: center;
     background-color: rgba(255, 81, 0, 0.272);
-    border-radius: 20%;
+    border-radius: 5%;
     min-width: 500px;
     min-height: 200px;
 }
@@ -13,17 +13,26 @@ body{
     width: 10px;
     height: 10px;
     position: relative;
-    right: 10px;
-    top: 10px;
+    margin-left: auto;
+    margin-bottom: auto;
     background-color: rgba(0, 128, 128, 0.905);
+    border: 1px;
+}
+.Li{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    margin-left: auto;
+    margin-bottom: auto;
+    background-color: rgba(255, 225, 0, 0.908);
     border: 1px;
 }
 .He{
     width: 10px;
     height: 10px;
     position: relative;
-    left: 10px;
-    top: 10px;
+    margin-right: auto;
+    margin-bottom: auto;
     background-color: rgba(128, 0, 128, 0.917);
     border: 1px;
 }
