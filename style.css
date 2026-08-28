@@ -2,19 +2,20 @@ body{
     background-color: rgb(85, 4, 4);
 }
 .tableAl{
+    position: absolute;
     display: flex;
     justify-content: center;
     background-color: rgba(255, 81, 0, 0.272);
     border-radius: 5%;
-    min-width: 500px;
+    min-width: 400px;
     min-height: 200px;
 }
 .H{
     width: 10px;
     height: 10px;
     position: relative;
-    margin-left: auto;
-    margin-bottom: auto;
+    margin-right: 390px;
+    margin-bottom: 190px;
     background-color: rgba(0, 128, 128, 0.905);
     border: 1px;
 }
@@ -22,8 +23,8 @@ body{
     width: 10px;
     height: 10px;
     position: relative;
-    margin-left: auto;
-    margin-bottom: auto;
+    margin-right: 390px;
+    margin-bottom: 190px;
     background-color: rgba(255, 225, 0, 0.908);
     border: 1px;
 }
@@ -31,7 +32,7 @@ body{
     width: 10px;
     height: 10px;
     position: relative;
-    margin-right: auto;
+    margin-left: auto;
     margin-bottom: auto;
     background-color: rgba(128, 0, 128, 0.917);
     border: 1px;
