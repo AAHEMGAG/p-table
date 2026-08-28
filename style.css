@@ -14,6 +14,8 @@ body{
     position: relative;
     right: 10px;
     top: 10px;
+    background-color: rgba(0, 128, 128, 0.905);
+    border: 1px;
 }
 .H{
     width: 10px;
@@ -21,4 +23,6 @@ body{
     position: relative;
     left: 10px;
     top: 10px;
+    background-color: rgba(128, 0, 128, 0.917);
+    border: 1px;
 }
