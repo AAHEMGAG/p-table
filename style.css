@@ -1126,10 +1126,10 @@ Extra row ordering
 */
 .XRO{
     position: relative;
-    margin-right: auto;
     margin-top: auto;
     display: flex;
     flex-direction: column;
+    justify-content: left;
 }
 /*
 ==============
