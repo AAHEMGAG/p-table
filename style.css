@@ -1122,6 +1122,13 @@ Group 18
 }
 
 /*
+Extra row ordering
+*/
+.XRO{
+    display: flex;
+    flex-direction: column;
+}
+/*
 ==============
 Period 6 Extention
 ==============
@@ -1130,7 +1137,7 @@ Period 6 Extention
 .XR1{
     display: flex;
     flex-direction: row;
-    justify-content: flex-end;
+    order: 1;
 }
 .La1{
     width: 10px;
@@ -1292,7 +1299,7 @@ Period 7 Extention
 .XR2{
     display: flex;
     flex-direction: row;
-    justify-content: flex-end;
+    order: 2;
 }
 .Ac1{
     width: 10px;
