@@ -1120,3 +1120,327 @@ Group 18
     border-style: solid;
     border-width: 1px;
 }
+
+/*
+==============
+Period 6 Extention
+==============
+*/
+
+.XR1{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.La1{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 1;
+    background-color: rgba(255, 40, 40, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Ce{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 2;
+    background-color: rgba(255, 40, 40, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Pr{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 3;
+    background-color: rgba(255, 40, 40, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Nd{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 4;
+    background-color: rgba(255, 40, 40, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Pm{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 5;
+    background-color: rgba(255, 40, 40, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Sm{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 6;
+    background-color: rgba(255, 40, 40, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Eu{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 7;
+    background-color: rgba(255, 40, 40, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Gd{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 8;
+    background-color: rgba(255, 40, 40, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Tb{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 9;
+    background-color: rgba(255, 40, 40, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Dy{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 10;
+    background-color: rgba(255, 40, 40, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Ho{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 11;
+    background-color: rgba(255, 40, 40, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Er{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 12;
+    background-color: rgba(255, 40, 40, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Tm{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 13;
+    background-color: rgba(255, 40, 40, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Yb{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 14;
+    background-color: rgba(255, 40, 40, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Lu{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 15;
+    background-color: rgba(255, 40, 40, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+
+/*
+==============
+Period 7 Extention
+==============
+*/
+
+.XR2{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.Ac1{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 1;
+    background-color: rgba(52, 217, 26, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Th{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 2;
+    background-color: rgba(52, 217, 26, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Pa{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 3;
+    background-color: rgba(52, 217, 26, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.U{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 4;
+    background-color: rgba(52, 217, 26, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Np{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 5;
+    background-color: rgba(52, 217, 26, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Pu{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 6;
+    background-color: rgba(52, 217, 26, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Am{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 7;
+    background-color: rgba(52, 217, 26, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Cm{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 8;
+    background-color: rgba(52, 217, 26, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Bk{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 9;
+    background-color: rgba(52, 217, 26, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Cf{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 10;
+    background-color: rgba(52, 217, 26, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Es{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 11;
+    background-color: rgba(52, 217, 26, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Fm{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 12;
+    background-color: rgba(52, 217, 26, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Md{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 13;
+    background-color: rgba(52, 217, 26, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.No{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 14;
+    background-color: rgba(52, 217, 26, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.Lr{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    order: 15;
+    background-color: rgba(52, 217, 26, 0.9);
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
