@@ -1125,7 +1125,7 @@ Group 18
 Extra row ordering
 */
 .XRO{
-    position: relative;
+    position: absolute;
     margin-top: auto;
     display: flex;
     flex-direction: column;
