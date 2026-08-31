@@ -1129,7 +1129,8 @@ Extra row ordering
     margin-top: auto;
     display: flex;
     flex-direction: column;
-    justify-content: left;
+    left: 24px;
+    top: 96px;
 }
 /*
 ==============
